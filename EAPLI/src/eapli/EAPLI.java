@@ -14,6 +14,6 @@ public class EAPLI {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("OLAAAAAAAA");
+        System.out.println("Ola Mundo!!");
     }
 }
